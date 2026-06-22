@@ -11,7 +11,7 @@ cv:
 
   sections:
     Summary:
-      - Neuroethologist studying environmental plasticity in the Iberian ribbed newt.
+      - I am a neuroethologist interested in how animals achieve similar behaviours for survival despite inhabiting vastly different habitats and possessing distinct neural circuit architectures. My current research focuses on the Iberian ribbed newt (Pleurodeles waltl), a remarkably plastic species that transitions between aquatic and terrestrial living as an adult — two environments with profoundly different sensory and physical properties. I aim to understand the extent to which nervous systems can be flexible in this species and the morphological, behavioural and genetic modifications newts use to adapt between environments. I plan to leverage the newt’s unique plasticity, regenerative capacity and its key evolutionary position as a sister group to all other terrestrial vertebrates to understand the flexibility of the nervous system over evolution. My long term goal is to develop the newt into a full-fledged model for neuroethology and comparative systems neuroscience.
 
     Education:
       - institution: New York University
@@ -21,7 +21,7 @@ cv:
         start_date: 2015-01
         end_date: 2021-01
         highlights:
-          - Doctoral research advised by Katherine I Nagel
+          - Thesis: The Neural Circuits that Support Wind-Guided Olfactory Navigation, advised by Katherine I Nagel
 
       - institution: McGill University
         location: Montreal, QC, Canada
@@ -30,7 +30,7 @@ cv:
         start_date: 2011-01
         end_date: 2015-01
         highlights:
-          - Research on vocal communication in Jon T Sakata's lab
+          - Researched vocal communication using songbirds in Jon T Sakata's lab
 
     Experience:
       - company: Tosches Lab, Department of Biological Sciences, Columbia University
@@ -40,9 +40,6 @@ cv:
         end_date: present
         highlights:
           - "Investigating neural mechanisms of environmental plasticity and sensory processing in the Iberian ribbed newt."
-          - Neural circuit plasticity research
-          - Electrophysiology techniques
-          - Computational neuroscience
 
     Publications:
       - title: Iberian ribbed newts
