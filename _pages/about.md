@@ -27,6 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-I am a postdoctoral research scientist in Maria Tosches' lab at Columbia University.
-
-My research examines how vertebrate nervous systems adapt to dramatically different environments using the Iberian Ribbed Newt (Pleurodeles waltl) as a model. 
+I am a neuroethologist interested in how animals achieve similar behaviours for survival despite inhabiting
+vastly different habitats and possessing distinct neural circuit architectures. My current research in Maria Tosches' lab at Columbia University focuses on
+the Iberian ribbed newt (Pleurodeles waltl), a remarkably plastic species that transitions between aquatic and
+terrestrial living as an adult — two environments with profoundly different sensory and physical properties. I
+aim to understand the extent to which nervous systems can be flexible in this species and the morphological,
+behavioural and genetic modifications newts use to adapt between environments. I plan to leverage the
+newt’s unique plasticity, regenerative capacity and its key evolutionary position as a sister group to all other
+terrestrial vertebrates to understand the flexibility of the nervous system over evolution. My long term goal is
+to develop the newt into a full-fledged model for neuroethology and comparative systems neuroscience. 
